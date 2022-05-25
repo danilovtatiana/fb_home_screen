@@ -1,12 +1,9 @@
 import React from 'react';
 import './Header.css';
 import {
-    BellIcon, 
-    ChatIcon,
-    ChevronDownIcon,
     HomeIcon,
     UserGroupIcon,
-    ViewGridIcon,
+    UserCircleIcon,
 } from '@heroicons/react/solid';
 
 import {
@@ -50,7 +47,10 @@ function Header() {
       </div>
 
       <div className='header__right'></div>
-      
+        <div className='header__info'>
+            <UserCircleIcon className='user'/>
+            <h4>Danilov Tatiana</h4>
+        </div>
     </div>
   );
 }
