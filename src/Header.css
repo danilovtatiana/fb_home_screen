@@ -41,4 +41,19 @@
      flex: 1;
      justify-content: center;
  }
+ 
+ .header__option {
+     display: flex;
+     align-items: center;
+     padding: 0 30px;
+     cursor: pointer;
+    }
 
+.header__info {
+    display: flex;
+    align-items: center;
+}
+
+.header__info > h4 {
+    margin-left: 10px;
+}
