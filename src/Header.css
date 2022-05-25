@@ -1,3 +1,7 @@
  .header__left > img {
      width: 40px;;
  }
+
+ .header__input {
+     width: 30px;
+ }
