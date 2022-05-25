@@ -36,3 +36,9 @@
      width: 30px;
  }
 
+ .header__middle{
+     display: flex;
+     flex: 1;
+     justify-content: center;
+ }
+
