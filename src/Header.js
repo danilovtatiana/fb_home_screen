@@ -30,19 +30,19 @@ function Header() {
           </div>
 
           <div className='header__option'>
-              <PlayIcon className='home'/>
+              <PlayIcon className='watch'/>
           </div>
 
           <div className='header__option'>
-              <ShoppingCartIcon className='home'/>
+              <ShoppingCartIcon className='marketplace'/>
           </div>
 
           <div className='header__option'>
-              <UserGroupIcon className='home'/>
+              <UserGroupIcon className='groups'/>
           </div>
 
           <div className='header__option'>
-              <PuzzleIcon className='home'/>
+              <PuzzleIcon className='games'/>
           </div>
       </div>
 

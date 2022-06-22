@@ -57,3 +57,14 @@
 .header__info > h4 {
     margin-left: 10px;
 }
+
+.header__option, .user{
+    color: grey;
+}
+
+.header__option:hover {
+    color: #2e81f4;
+}
+.user:hover {
+    color: #2e81f4;
+}
